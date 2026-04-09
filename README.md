@@ -33,7 +33,7 @@
 
 **Visualisation:**
 
-![Nifty 50 Moving Average Crossover](new_folder_name/nifty_50_strat_V1.png)
+![Nifty 50 Moving Average Crossover](charts/nifty_50_strat_V1.png)
 
 **Key Learnings:**
 - MA crossover correctly identified the major bull run from mid-2023 to mid-2024
@@ -57,10 +57,10 @@
 
 **Visualisations:**
 
-![RSI Signal Chart](new_folder_name/RSI_Indicator.png)
+![RSI Signal Chart](charts/RSI_Indicator.png)
 *RSI oscillating between oversold (30) and overbought (70) zones on Nifty 50*
 
-![RSI Strategy vs Buy & Hold](new_folder_name/RSI_Indicator_2.png)
+![RSI Strategy vs Buy & Hold](charts/RSI_Indicator_2.png)
 *RSI Strategy (blue) vs Nifty 50 Buy & Hold (grey) — 2023 to 2026*
 
 **Results:**
